@@ -1,0 +1,29 @@
+    body {
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+#container {
+    background-color: brown;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+#container div {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    
+}
+
